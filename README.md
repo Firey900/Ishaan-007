@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ishaan-007
+- 👋 Hi
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning Java Script
 - 💞️ I’m looking to collaborate on nothing
